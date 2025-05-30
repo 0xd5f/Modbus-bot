@@ -1,4 +1,4 @@
-# Telegram Modbus RTU Industrial Temperature Monitoring Bot
+# Telegram Modbus Temperature Monitoring Bot
 
 ## Описание
 
