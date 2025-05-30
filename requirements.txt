@@ -1,0 +1,6 @@
+aiogram
+pymodbus
+apscheduler
+sqlalchemy[asyncio]
+aiosqlite
+matplotlib
